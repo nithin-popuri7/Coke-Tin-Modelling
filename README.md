@@ -31,7 +31,9 @@ Step9: By using scale tool move those faces inwards so we get the shape of the t
 Step10: Repeat the samething with scale tool in the bottom the can.
 
 ## Output:
+YouTube: https://youtu.be/ILSfapEgS9Q
 
 
 
-## Result
+## Result:
+Therefore a coke tin is successfully created using maya.
