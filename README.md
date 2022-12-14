@@ -31,7 +31,18 @@ Step9: By using scale tool move those faces inwards so we get the shape of the t
 Step10: Repeat the samething with scale tool in the bottom the can.
 
 ## Output:
-YouTube: https://youtu.be/ILSfapEgS9Q
+![github.logo](exp3.png)
+
+![github.logo](exp3.1.png)
+
+![github.logo](exp3.2.png)
+
+![github.logo](exp3.3.png)
+
+![github.logo](exp3.4.png)
+
+## YouTube:
+https://youtu.be/ILSfapEgS9Q
 
 
 
